@@ -41,6 +41,6 @@ If you'd like to contribute to the Pokédex App, please follow these steps:
 
 # Planned Changes / Updates
   We plan to add the following features to the Pokédex App soon:
-    - Adding the ability to save favorite cards.
-    - Adding the ability to search for cards using a search bar at the top of the screen.
-    - Adding the ability to sort cards by type.
+  - Adding the ability to save favorite cards.
+  - Adding the ability to search for cards using a search bar at the top of the screen.
+  - Adding the ability to sort cards by type.
